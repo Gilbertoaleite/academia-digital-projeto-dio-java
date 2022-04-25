@@ -97,7 +97,7 @@ Se possível:
 
 ------------
 
-Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+Foi desenvolvido por [Gilberoaleite](https://www.linkedin.com/in/gilbertoaleite/ "gilbertoaleite") na aula da Dio e foi lecionado e Disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
 
 
 
